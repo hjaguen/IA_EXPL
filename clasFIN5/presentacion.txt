@@ -1,0 +1,7 @@
+Website underfitting y overfittting
+https://www.aprendemachinelearning.com/que-es-overfitting-y-underfitting-y-como-solucionarlo/
+
+
+
+Presenctacion validación Cruzada
+https://prezi.com/p/paxwb0akz3uv/dominando-el-machine-learning/
